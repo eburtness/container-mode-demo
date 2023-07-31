@@ -1,0 +1,16 @@
+{
+    "name": "Sample",
+    "dockerFile": "Dockerfile",
+
+    "customizations": {
+      "vscode": {
+        "settings": { 
+          "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-11-openjdk-amd64"
+        },
+        "extensions": [
+          "salesforce.salesforcedx-vscode-expanded",
+        ]
+      }
+    }
+  }
+  
